@@ -2,7 +2,9 @@
 
 Bee Swarm Booster is a modern and easy-to-use automation macro tool for Roblox Bee Swarm Simulator, designed to help players use boosts, items, and abilities more efficiently.
 
-<img width="562" height="873" alt="image" src="https://github.com/user-attachments/assets/dc410786-05d6-49c2-bf07-dfc4227f58a9" />
+<img width="577" height="802" alt="image" src="https://github.com/user-attachments/assets/81ee8883-cba5-406d-960d-a5104830ece8" /><img width="584" height="810" alt="image" src="https://github.com/user-attachments/assets/edbb0962-ffb1-4adb-bbd2-45b101968431" />
+
+
 
 
 The macro is only active when the Roblox window is focused, making it safe to run in the background without interfering with other applications.
